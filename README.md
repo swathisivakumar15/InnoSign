@@ -79,11 +79,11 @@ LINK: https://goto.freeconvert.com/6874d207fd18e268684ffbcf
 
 ## Future Enhancements
 
--Expand ISL dataset to include sentence-level and contextual gestures
--Optimize for mobile devices using TensorFlow Lite / MediaPipe mobile SDK
--Integrate avatar-based sign language playback
--Add multilingual support (Hindi, Telugu, Tamil, etc.)
--Deploy on the cloud with a user-friendly web interface
+- Expand ISL dataset to include sentence-level and contextual gestures
+- Optimize for mobile devices using TensorFlow Lite / MediaPipe mobile SDK
+- Integrate avatar-based sign language playback
+- Add multilingual support (Hindi, Telugu, Tamil, etc.)
+- Deploy on the cloud with a user-friendly web interface
 
 ---
 
