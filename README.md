@@ -54,7 +54,7 @@ Millions of individuals with speech and hearing impairments face communication b
 ### 1. Clone the Repository
 
 ```bash ```
-git clone https://github.com/your-username/innosign.git
+git clone https://github.com/swathisivakumar15/innosign.git
 cd innosign
 
 ### 2. Install Dependencies
